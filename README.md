@@ -10,7 +10,7 @@ Full stack web developer with experience in NodeJs, ReactJs, Angular, Sql among 
 
 You can find me in... 
 
-[Linkedin](https://www.linkedin.com/in/davidcuspoca/) [Twitter](https://twitter.com/david_cuspoca) 
+[Linkedin](https://www.linkedin.com/in/davidcuspoca/){:target="_blank"} [Twitter](https://twitter.com/david_cuspoca){:target="_blank"} 
 
 thanks for reading me.
 
