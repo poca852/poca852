@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi, I'm David 
+
+------
+
+![baner-github](https://user-images.githubusercontent.com/11352458/174684754-40b2db2a-364c-4300-8eaa-02a3492f2b5f.png)
+
+Full stack web developer with experience in NodeJs, ReactJs, Angular, Sql among other technologies. Develop a web application that allows you to manage the events of a personal agenda, increasing the productivity of users by being able to organize their schedules. with thought analytical, teamwork, autonomy, leadership.
+
+### Contact 
+
+------
+
+You can find me in... 
+
+[Linkedin](https://www.linkedin.com/in/davidcuspoca/) [Twitter](https://twitter.com/david_cuspoca) 
+
+thanks for reading me.
 
 <!--
 **poca852/poca852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
